@@ -72,8 +72,8 @@ Follow these instructions to set up and run the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/student-dropout-prediction.git
-   cd student-dropout-prediction
+   git clone https://github.com/akshay-834/dropout_prediction.git
+   cd dropout_prediction
    ```
 
 2. **Create and activate a virtual environment (recommended):**
@@ -99,7 +99,7 @@ Follow these instructions to set up and run the project locally.
 
 1. **Run the Streamlit app:**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
    *(Replace `app.py` with the actual name of your Python script if it's different.)*
 
